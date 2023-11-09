@@ -9,7 +9,7 @@
 
         .container {
             /*background-color: cornflowerblue;*/
-            background-image: url("img/background1.jpg");
+            background-image: url("");
             width: 100vw;
             height: 100vh;
             background-repeat: no-repeat;
